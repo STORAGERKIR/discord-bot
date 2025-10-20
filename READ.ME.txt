@@ -1,0 +1,12 @@
+GUIDE TO USE
+
+REPLACE THE DISCORD TOKEN 
+(make one in the discord devs website) 
+
+
+RUN WITH PYTHON 
+
+END SCRIPT WITH CTRL+C
+
+
+DONE
